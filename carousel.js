@@ -12,7 +12,7 @@ class Carousel {
       containerId: "#carousel",
       slideId: ".slide",
       interval: 5000,
-      isPlaying: alse
+      isPlaying: false
     };
     console.log(objectWithInnerParams);
     const resultObject = {};
